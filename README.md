@@ -6,6 +6,8 @@
 
 Apple Utility is a command-line tool designed to help Minecraft Bedrock PBR texture artists. This utility streamlines the process of organizing, renaming, and generating JSON files for PBR textures, enhancing your workflow and efficiency.
 
+[![Tutorial](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/2w4yvxm-h5c?si=fCvB3hGSdVj1T48o)
+
 ## Features
 
 - **Image Processing**: Rename and categorize your PBR texture images with specific suffixes.
